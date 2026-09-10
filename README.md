@@ -18,7 +18,7 @@ Counts lines, words, and characters. More accurate than wc for non-ASCII text.
 
 ### Option 1: Install a Pre-built Package
 
-Download the package for your distribution from the Releases page and install it.
+Download the package for your distribution from the [Releases](https://github.com/vladik50/simpleW/releases) page and install it.
 
 **Debian / Ubuntu / Linux Mint:**
 sudo dpkg -i simplew_1.0-1_amd64.deb
