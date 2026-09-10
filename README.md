@@ -3,13 +3,13 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A lightweight terminal word counter with UTF-8 support.  
-Counts lines, words, and characters. More accurate than wc for non-ASCII text.
+Counts lines, words, and characters. No dependencies, works on any Linux distribution.
 
 ## Features
 
 - Counts lines, words, and characters
-- UTF-8 aware: counts characters, not bytes (unlike wc)
-- Counts the last line even without trailing newline (unlike wc)
+- UTF-8 aware: counts characters, not bytes
+- Counts the last line even without trailing newline
 - Optional --letters flag: counts only letters and digits
 - Short flags for scripts: -l, -w, -c
 - Zero dependencies: works on any Linux distribution
